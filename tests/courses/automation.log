@@ -1,0 +1,328 @@
+06/11/2023 09:07:49 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:07:49 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:07:50 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:07:50 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:07:50 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:07:50 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:07:50 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:07:50 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:07:50 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:07:50 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:09:05 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:09:05 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:09:06 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:09:06 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:09:06 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:09:06 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:09:06 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:09:06 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:09:06 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:09:06 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:10:44 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:10:44 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:10:45 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:10:45 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:10:45 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:10:45 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:10:45 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:10:45 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:10:45 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:10:45 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:11:46 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:11:47 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:11:47 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:11:47 AM - LoginPage - INFO: Element did not appear on the web page
+06/11/2023 09:11:47 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:11:47 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:11:47 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:11:47 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:11:47 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:11:47 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:16:28 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:16:28 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:16:28 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:16:28 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:16:28 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:16:28 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:16:28 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:16:28 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:16:28 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:16:28 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:16:28 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:16:28 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:22:50 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:22:50 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:22:50 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:22:51 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:22:51 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:22:51 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:22:51 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:22:51 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:22:51 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:22:51 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:22:51 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:22:51 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:22:51 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:22:55 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:22:55 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Element found with locator: search locator_type: id
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Cannot input data on the element with locator: search locator_type: id
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:23:26 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:23:58 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:33:43 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:33:43 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:33:43 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:33:44 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:33:44 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:33:44 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:33:44 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:33:44 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:33:44 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:33:44 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:33:44 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:33:44 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:33:44 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:33:47 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:33:47 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Element found with locator: search locator_type: name
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Cannot input data on the element with locator: search locator_type: name
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:34:18 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:34:49 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:39:10 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:39:10 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:39:10 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:39:11 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:39:11 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:39:11 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:39:11 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:39:11 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:39:11 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:39:11 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:39:11 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:39:11 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:39:11 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:39:14 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:39:14 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Cannot input data on the element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+06/11/2023 09:39:40 AM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:39:51 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:39:51 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:39:51 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:39:51 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:39:51 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:39:51 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:39:51 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:39:52 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:39:52 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:39:52 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:39:52 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:39:52 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:39:52 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:39:55 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:39:55 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:40:26 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:40:58 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:43:39 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:43:39 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:43:39 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:43:39 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:43:39 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:43:39 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:43:39 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:43:39 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:43:39 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:43:39 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:43:39 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:43:39 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:43:39 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:43:43 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:43:43 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:44:14 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:44:46 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:45:03 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:45:03 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:45:03 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:45:04 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:45:04 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:45:04 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:45:04 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:45:04 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:45:04 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:45:04 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:45:04 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:45:04 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:45:04 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:45:07 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:45:07 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:45:39 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:45:43 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:47:23 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:47:23 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:47:23 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:47:23 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:47:23 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:47:23 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:47:23 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:47:23 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:47:23 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:47:23 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:47:24 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:47:24 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:47:24 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:47:27 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:47:27 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:47:58 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:48:06 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:49:27 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:49:27 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:49:27 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:49:27 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:49:27 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:49:27 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:49:28 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:49:28 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:49:28 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:49:28 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:49:28 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:49:28 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:49:28 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:49:31 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:49:31 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:50:02 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:50:34 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:50:34 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:50:34 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:50:34 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 09:51:06 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 09:55:34 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:55:34 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:55:34 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/11/2023 09:55:35 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/11/2023 09:55:35 AM - LoginPage - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/11/2023 09:55:35 AM - LoginPage - INFO: Element appeared on the web page
+06/11/2023 09:55:35 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/11/2023 09:55:35 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/11/2023 09:55:35 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/11/2023 09:55:35 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/11/2023 09:55:35 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:55:35 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/11/2023 09:55:35 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:55:38 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:55:38 AM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:56:09 AM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 09:56:09 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+06/11/2023 09:56:09 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:56:09 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:56:10 AM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 09:56:10 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:56:10 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 09:56:41 AM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 09:56:41 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:56:41 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:56:41 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'zen-subscribe')][1] locator_type: xpath
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'zen-subscribe')][1] locator_type: xpath
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class, 'card-error')]//span locator_type: xpath
+06/11/2023 09:56:46 AM - RegisterCoursesPage - INFO: Element is displayed with locator: //div[contains(@class, 'card-error')]//span and locator_type: xpath
+06/11/2023 09:56:46 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + CC information was incorrect
+06/11/2023 09:56:46 AM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/11/2023 01:44:40 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:44:51 PM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 01:44:51 PM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 01:44:55 PM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 01:45:00 PM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 01:45:00 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:45:00 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 01:45:00 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 01:45:06 PM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 01:45:06 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:45:06 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 01:45:06 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'zen-subscribe')][1] locator_type: xpath
+06/11/2023 01:45:06 PM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'zen-subscribe')][1] locator_type: xpath
+06/11/2023 01:45:06 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:45:16 PM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 01:45:19 PM - RegisterCoursesPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+06/11/2023 01:45:19 PM - RegisterCoursesPage - ERROR: Element is not displayed with locator: //div[contains(@class, 'card-error')]//span and locator_type: xpath
+06/11/2023 01:45:19 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + CC information was incorrect
+06/11/2023 01:45:19 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\lucas\workspace_python\letskodeit\screenshots\CC information was incorrect.1686501919863.png
+06/11/2023 01:45:20 PM - TestStatus - ERROR: test_invalid_enrollment ### TEST FAILED
+06/11/2023 01:45:20 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:45:30 PM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 01:45:30 PM - RegisterCoursesPage - INFO: Element found with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 01:45:31 PM - RegisterCoursesPage - INFO: Click on element with locator: //a[.='ALL COURSES'] locator_type: xpath
+06/11/2023 01:45:31 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+06/11/2023 01:45:31 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/11/2023 01:45:31 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 01:45:31 PM - RegisterCoursesPage - INFO: Input data on element with locator: //input[@id='search'] locator_type: xpath
+06/11/2023 01:45:31 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 01:45:32 PM - RegisterCoursesPage - INFO: Click on element with locator: //button[contains(@class, 'find-course')] locator_type: xpath
+06/11/2023 01:45:33 PM - RegisterCoursesPage - INFO: Click on element with locator:  locator_type: id
+06/11/2023 01:45:33 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:45:43 PM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 01:45:47 PM - RegisterCoursesPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+06/11/2023 01:45:47 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[contains(text(), 'Enroll in Course')] locator_type: xpath
+06/11/2023 01:45:47 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:45:57 PM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 01:46:00 PM - RegisterCoursesPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+06/11/2023 01:46:00 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[contains(@class, 'zen-subscribe')][1] locator_type: xpath
+06/11/2023 01:46:00 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/11/2023 01:46:11 PM - RegisterCoursesPage - INFO: Element did not appear on the web page
+06/11/2023 01:46:14 PM - RegisterCoursesPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+06/11/2023 01:46:14 PM - RegisterCoursesPage - ERROR: Element is not displayed with locator: //div[contains(@class, 'card-error')]//span and locator_type: xpath
+06/11/2023 01:46:14 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + CC information was incorrect
+06/11/2023 01:46:14 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\lucas\workspace_python\letskodeit\screenshots\CC information was incorrect.1686501974269.png
+06/11/2023 01:46:14 PM - TestStatus - ERROR: test_invalid_enrollment ### TEST FAILED

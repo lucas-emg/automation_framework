@@ -1,0 +1,244 @@
+04/25/2023 08:39:07 PM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+04/25/2023 08:39:08 PM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+04/25/2023 08:39:08 PM - LoginPage - INFO: Element found with locator: email locator_type: id
+04/25/2023 08:39:08 PM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+04/25/2023 08:39:08 PM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+04/25/2023 08:39:08 PM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+04/25/2023 08:39:08 PM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+04/25/2023 08:39:08 PM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+04/25/2023 08:39:20 PM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+04/25/2023 08:39:21 PM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+04/25/2023 08:39:21 PM - LoginPage - INFO: Element found with locator: email locator_type: id
+04/25/2023 08:39:21 PM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+04/25/2023 08:39:21 PM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+04/25/2023 08:39:21 PM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+04/25/2023 08:39:21 PM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+04/25/2023 08:39:21 PM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:18 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:09:19 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:09:19 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:09:19 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:09:19 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:09:19 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:09:19 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:19 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:22 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:09:22 AM - LoginPage - INFO: Element was found
+05/15/2023 09:09:23 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:09:23 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:09:23 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:09:23 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:09:23 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:09:24 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:09:24 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:24 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:27 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+05/15/2023 09:09:27 AM - LoginPage - INFO: Element was found
+05/15/2023 09:09:38 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:09:39 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:09:39 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:09:39 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:09:39 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:09:39 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:09:39 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:39 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:09:42 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:09:42 AM - LoginPage - INFO: Element was found
+05/15/2023 09:10:05 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:10:05 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:10:05 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:10:05 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:10:06 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:10:06 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:10:06 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:10:06 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:10:09 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+05/15/2023 09:10:09 AM - LoginPage - INFO: Element was found
+05/15/2023 09:10:20 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:10:20 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:10:20 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:10:20 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:10:20 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:10:20 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:10:20 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:10:20 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:10:23 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:10:23 AM - LoginPage - INFO: Element was found
+05/15/2023 09:11:10 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:11:11 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:11:11 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:11:11 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:11:11 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:11:11 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:11:11 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:11:11 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:11:14 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:11:14 AM - LoginPage - INFO: Element was found
+05/15/2023 09:11:29 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:11:29 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:11:29 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:11:29 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:11:30 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:11:30 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:11:30 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:11:30 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:11:33 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:11:33 AM - LoginPage - INFO: Element was found
+05/15/2023 09:11:52 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:11:52 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:11:52 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:11:52 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:11:52 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:11:52 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:11:52 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:11:52 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:11:55 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:11:55 AM - LoginPage - INFO: Element was found
+05/15/2023 09:13:56 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:13:57 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:13:57 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:13:57 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:13:57 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:13:57 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:13:57 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:13:57 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:14:10 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:14:10 AM - LoginPage - INFO: Element was found
+05/15/2023 09:14:48 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:14:48 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:14:48 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:14:48 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:14:48 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:14:48 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:14:48 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:14:49 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:15:02 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:15:02 AM - LoginPage - INFO: Element was found
+05/15/2023 09:17:24 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:17:24 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:17:24 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:17:24 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:17:24 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:17:24 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:17:24 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:17:25 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:17:38 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:17:38 AM - LoginPage - INFO: Element was found
+05/15/2023 09:53:15 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:53:15 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:53:15 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:53:15 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:53:15 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:53:15 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:53:16 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element was found
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/15/2023 09:53:16 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/15/2023 09:53:16 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/15/2023 09:53:16 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/15/2023 09:53:16 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:53:16 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/15/2023 09:53:26 AM - LoginPage - INFO: Element not found with locator: {locator} locator_type: {locator_type}
+05/15/2023 09:53:26 AM - LoginPage - INFO: Element was found
+05/16/2023 08:46:22 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/16/2023 08:46:23 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/16/2023 08:46:26 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/16/2023 08:46:26 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/16/2023 08:46:26 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/16/2023 08:46:26 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/16/2023 08:46:26 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/16/2023 08:46:26 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/16/2023 08:46:30 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+05/16/2023 08:46:30 AM - LoginPage - INFO: Element was found
+05/16/2023 08:52:55 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/16/2023 08:52:56 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/16/2023 08:52:59 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/16/2023 08:52:59 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/16/2023 08:52:59 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/16/2023 08:53:00 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/16/2023 08:53:00 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/16/2023 08:53:00 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+05/16/2023 08:53:03 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+05/16/2023 08:53:03 AM - LoginPage - INFO: Element was found
+05/16/2023 08:55:17 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+05/16/2023 08:55:17 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+05/16/2023 08:55:21 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+05/16/2023 08:55:21 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+05/16/2023 08:55:21 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+05/16/2023 08:55:21 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+05/16/2023 08:55:21 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+05/16/2023 08:55:21 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:23:33 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/06/2023 10:23:34 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/06/2023 10:23:37 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/06/2023 10:23:37 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/06/2023 10:23:37 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/06/2023 10:23:37 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/06/2023 10:23:37 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:23:37 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:23:37 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is Incorrect
+06/06/2023 10:23:37 AM - TestStatus - ERROR: ### EXCEPTION OCCURRED[WinError 123] A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta: 'C:\\Users\\lucas\\workspace_python\\letskodeit\\baseC:'
+06/06/2023 10:23:40 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+06/06/2023 10:23:40 AM - LoginPage - INFO: Element was found
+06/06/2023 10:23:40 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
+06/06/2023 10:23:40 AM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/06/2023 10:25:07 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/06/2023 10:25:08 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/06/2023 10:25:11 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/06/2023 10:25:11 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/06/2023 10:25:11 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/06/2023 10:25:11 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/06/2023 10:25:11 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:25:11 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:25:11 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is Incorrect
+06/06/2023 10:25:11 AM - TestStatus - ERROR: ### EXCEPTION OCCURRED[WinError 123] A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta: 'C:\\Users\\lucas\\workspace_python\\letskodeit\\baseC:'
+06/06/2023 10:25:15 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+06/06/2023 10:25:15 AM - LoginPage - INFO: Element was found
+06/06/2023 10:25:15 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
+06/06/2023 10:25:15 AM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/06/2023 10:27:31 AM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/06/2023 10:27:31 AM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/06/2023 10:27:34 AM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/06/2023 10:27:34 AM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/06/2023 10:27:34 AM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/06/2023 10:27:34 AM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/06/2023 10:27:34 AM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:27:34 AM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 10:27:34 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is Incorrect
+06/06/2023 10:27:34 AM - TestStatus - ERROR: ### EXCEPTION OCCURRED[WinError 123] A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta: 'C:\\Users\\lucas\\workspace_python\\letskodeit\\baseC:'
+06/06/2023 10:27:37 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+06/06/2023 10:27:37 AM - LoginPage - INFO: Element was found
+06/06/2023 10:27:37 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
+06/06/2023 10:27:37 AM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/06/2023 08:01:42 PM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/06/2023 08:01:42 PM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/06/2023 08:01:45 PM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/06/2023 08:01:45 PM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/06/2023 08:01:45 PM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/06/2023 08:01:45 PM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/06/2023 08:01:45 PM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 08:01:45 PM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 08:01:45 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is Incorrect
+06/06/2023 08:01:45 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\lucas\workspace_python\letskodeit\screenshotsTitle is Incorrect.1686092505768.png
+06/06/2023 08:01:48 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+06/06/2023 08:01:48 PM - LoginPage - INFO: Element was found
+06/06/2023 08:01:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
+06/06/2023 08:01:48 PM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/06/2023 08:03:14 PM - LoginPage - INFO: Element found with locator: SIGN IN locator_type: link_text
+06/06/2023 08:03:14 PM - LoginPage - INFO: Click on element with locator: SIGN IN locator_type: link_text
+06/06/2023 08:03:17 PM - LoginPage - INFO: Element found with locator: email locator_type: id
+06/06/2023 08:03:17 PM - LoginPage - INFO: Input data on element with locator: email locator_type: id
+06/06/2023 08:03:17 PM - LoginPage - INFO: Element found with locator: login-password locator_type: id
+06/06/2023 08:03:17 PM - LoginPage - INFO: Input data on element with locator: login-password locator_type: id
+06/06/2023 08:03:17 PM - LoginPage - INFO: Element found with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 08:03:17 PM - LoginPage - INFO: Click on element with locator: //button[.='Login'] locator_type: xpath
+06/06/2023 08:03:17 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is Incorrect
+06/06/2023 08:03:17 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\lucas\workspace_python\letskodeit\screenshots\Title is Incorrect.1686092597745.png
+06/06/2023 08:03:20 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 locator_type: id
+06/06/2023 08:03:20 PM - LoginPage - INFO: Element was found
+06/06/2023 08:03:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
+06/06/2023 08:03:20 PM - TestStatus - ERROR: test_valid_login ### TEST FAILED
